@@ -1,0 +1,18 @@
+a, c = map(int, input().split())      # Will cover this syntax for accepting multiple inputs later
+
+# Solution as follows
+
+if a >= c:
+    print("Bravo!")
+else:
+    print("Try again")
+
+
+a, c = map(int, input().split())      # Will cover this syntax for accepting multiple inputs later
+
+# Solution as follows
+
+if a >= c:
+    print("Bravo!")
+else:
+    print("Try again")
