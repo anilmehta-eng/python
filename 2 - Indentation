@@ -1,0 +1,8 @@
+r = 1000
+w = 3222
+if r > w:
+    #Correct indentation added
+    print("White balls are out of stock")
+else:
+    #Correct indentation added
+    print("Your order is Confirmed")
