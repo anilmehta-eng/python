@@ -1,0 +1,5 @@
+# Solution as follows
+
+number = 19     # assign value to the variable
+
+print(number)   # output the variable
