@@ -1,0 +1,2 @@
+max_number = max(3,17)
+print ("The maximum number is:",max_number)
