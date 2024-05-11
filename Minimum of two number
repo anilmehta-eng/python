@@ -1,0 +1,2 @@
+min_number = min(10,17)
+print ("The minimum number is:",min_number)
